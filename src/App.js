@@ -21,7 +21,7 @@ const concepts = [
     title: "Events",
     image: eventsImage,
     description:
-      "Event handlers are added through props to (built-in) components. You pass functions as values to such event handlers to control which functions gets executed for which event.",
+      "Event handlers are added via props to (built-in) components. You pass functions as values to such event handlers to control which functions gets executed for which event.",
   },
 ];
 
